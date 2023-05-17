@@ -12,3 +12,5 @@ The purpose of this project was to use a dataset of historical lending activity 
 
 
 ## Summary
+
+Since the results from the machine learning model were pretty good, I would recommend this model. It had basically perfect prediction for the healhy loans and high accuracy for the risky loans. So, I would recommend it for the Nhealhy loans more than the risky loans, but wouldn't object to both. 
