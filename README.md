@@ -5,12 +5,12 @@ The purpose of this project was to use a dataset of historical lending activity 
 
 
 ## Results
-* The healthy loans were predidcted at a precision of almost 100% and the recall also had the same results as the precision.
-* The risky loans had a precision of 87% and a recall was a little bit higher at 89%.
+* The healthy loans were predicted at a precision of almost 100% and the recall also had the same results as the precision.
+* The risky loans had a precision of 87% and the recall was a little bit higher at 89%.
 * The resampling training data had the same results as above except for a 98% recall for the risky loans. 
 
 
 
 ## Summary
 
-Since the results from the machine learning model were pretty good, I would recommend this model. It had basically perfect prediction for the healhy loans and high accuracy for the risky loans. So, I would recommend it for the Nhealhy loans more than the risky loans, but wouldn't object to both. 
+Since the results from the machine learning model were pretty good, I would recommend this model. It had basically perfect predictions for the healhy loans and high accuracy for the risky loans. So, I would recommend it for the healhy loans more than the risky loans, but would still be good for both. 
